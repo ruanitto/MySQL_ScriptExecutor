@@ -1,0 +1,14 @@
+/home/rafael/Projects/MySQL_Script/MySQL_Script/bin/Debug/MySQL_Script.exe
+/home/rafael/Projects/MySQL_Script/MySQL_Script/bin/Debug/MySQL_Script.pdb
+/home/rafael/Projects/MySQL_Script/MySQL_Script/bin/Debug/BouncyCastle.Crypto.dll
+/home/rafael/Projects/MySQL_Script/MySQL_Script/bin/Debug/Google.Protobuf.dll
+/home/rafael/Projects/MySQL_Script/MySQL_Script/bin/Debug/MySql.Data.dll
+/home/rafael/Projects/MySQL_Script/MySQL_Script/bin/Debug/Renci.SshNet.dll
+/home/rafael/Projects/MySQL_Script/MySQL_Script/bin/Debug/Google.Protobuf.xml
+/home/rafael/Projects/MySQL_Script/MySQL_Script/bin/Debug/Renci.SshNet.xml
+/home/rafael/Projects/MySQL_Script/MySQL_Script/bin/Debug/MySql.Data.xml
+/home/rafael/Projects/MySQL_Script/MySQL_Script/obj/x86/Debug/MySQL_Script.csprojAssemblyReference.cache
+/home/rafael/Projects/MySQL_Script/MySQL_Script/obj/x86/Debug/MySQL_Script.csproj.CoreCompileInputs.cache
+/home/rafael/Projects/MySQL_Script/MySQL_Script/obj/x86/Debug/MySQL_Script.csproj.CopyComplete
+/home/rafael/Projects/MySQL_Script/MySQL_Script/obj/x86/Debug/MySQL_Script.exe
+/home/rafael/Projects/MySQL_Script/MySQL_Script/obj/x86/Debug/MySQL_Script.pdb
